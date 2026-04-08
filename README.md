@@ -41,7 +41,7 @@ Clients contacted via cellular were almost 3 times more likely to subscribe than
 | cellular | 14.5 |
 | telephone | 5.2 |
 
-![Contact type](images/soutcomes_contact_type.png)
+![Contact type](images/outcomes_contact_type.png)
 
 #### 2. Age
 Customers older than 60 were much more likely to subscribe to the offer.  This could be because they generally have more assets to use for a potential investment opportunity. Customers younger than 25 also were also statistically more likely to subscribe to the offer.  In general, the subscription rate has a parabolic relationship with the subscription rate.
